@@ -6362,11 +6362,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 717,
-									"top": 213,
+									"top": 183,
 									"width": 19.5126953125,
 									"height": 13,
-									"alpha": 0.5235987755982988,
-									"distance": 25,
+									"alpha": -0.2994365322159416,
+									"distance": 39.824615503479755,
 									"hostEdge": {
 										"$ref": "AAAAAAGVHwTyQ+uadQU="
 									},
