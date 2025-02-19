@@ -13083,6 +13083,7 @@
 									"model": {
 										"$ref": "AAAAAAGVHzj+eD4r1Uo="
 									},
+									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 560,
@@ -15305,8 +15306,7 @@
 								"reference": {
 									"$ref": "AAAAAAGVHv+6+aIGirY="
 								},
-								"navigable": "navigable",
-								"multiplicity": "0..*"
+								"navigable": "navigable"
 							}
 						}
 					]
